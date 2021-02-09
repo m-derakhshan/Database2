@@ -11,7 +11,7 @@
 
 ### About Our Work
 
-In This Project , Me **([Mohammad Mahdi Mohajer](https://github.com/mmohajer9))** and my Colleague **([Mohammad Derakhshan](https://github.com/mdarakhshan))** decided to implement a Data Warehouse based on Wide World Importers database. We implemented **2 Data Marts** from this database for **Bachelor's Course** of **Software Engineering Major** in **Isfahan University of Technology** : **Database II**.
+In This Project , Me **([Mohammad Mahdi Mohajer](https://github.com/mmohajer9))** and my Colleague **([Mohammad Derakhshan](https://github.com/m-derakhshan))** decided to implement a Data Warehouse based on Wide World Importers database. We implemented **2 Data Marts** from this database for **Bachelor's Course** of **Software Engineering Major** in **Isfahan University of Technology** : **Database II**.
 
 ### Implemented Data Marts
 
